@@ -18,6 +18,7 @@ Complete every task in the answer area below. Do not delete the `QUIZ-START` or 
 ---
 
 <!-- QUIZ-START -->
+
 # My Markdown Skills
 This sentence contains some **bold text** and some *italic text*.
 
@@ -36,5 +37,6 @@ This sentence contains some **bold text** and some *italic text*.
 ```bash
 git add .
 git commit -m "markdown quiz"
+
 
 <!-- QUIZ-END -->
