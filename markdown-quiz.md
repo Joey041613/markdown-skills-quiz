@@ -19,6 +19,22 @@ Complete every task in the answer area below. Do not delete the `QUIZ-START` or 
 
 <!-- QUIZ-START -->
 
-Replace this line with your Markdown answers.
+This sentence contains some **bold text** and some *italic text*.
+
+- First item
+- Second item
+- Third item
+
+1. First item
+2. Second item
+3. Third item
+
+[GitHub Docs](https://docs.github.com)
+
+`git status`
+
+```bash
+git add .
+git commit -m "markdown quiz"
 
 <!-- QUIZ-END -->
