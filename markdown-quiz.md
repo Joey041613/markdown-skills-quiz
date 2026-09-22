@@ -17,8 +17,8 @@ Complete every task in the answer area below. Do not delete the `QUIZ-START` or 
 
 ---
 
-# My Markdown Skills
 <!-- QUIZ-START -->
+# My Markdown Skills
 This sentence contains some **bold text** and some *italic text*.
 
 - First item
