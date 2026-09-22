@@ -36,7 +36,6 @@ This sentence contains some **bold text** and some *italic text*.
 ```bash
 git add .
 git commit -m "markdown quiz"
- ``` 
 ☑ Completed task
 □ Uncompleted task
 This is a complete sentence inside a blockquote.
