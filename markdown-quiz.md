@@ -19,29 +19,32 @@ Complete every task in the answer area below. Do not delete the `QUIZ-START` or 
 <!-- QUIZ-START -->
 # My Markdown Skills
 
-This sentence contains some **bold text** and some *italic text*.
+I enjoy learning **GitHub** and writing documentation in *Markdown*.
 
-- First item
-- Second item
-- Third item
+- Git
+- GitHub
+- Markdown
 
-1. First item
-2. Second item
-3. Third item
+1. Create a repository
+2. Edit a file
+3. Commit the changes
 
-[GitHub Docs](https://docs.github.com)
+Visit the [GitHub Docs](https://docs.github.com/) to learn more.
 
-`git status`
+Use `git status` to check the repository status.
 
 ```bash
 git add .
 git commit -m "markdown quiz"
-☑ Completed task
-□ Uncompleted task
-This is a complete sentence inside a blockquote.
+```
 
-Header 1	Header 2
-Data 1	Data 2
-Data 3	Data 4
- ``` 
+- [x] Learn Markdown syntax
+- [ ] Complete the next checkpoint
+
+> Markdown helps developers create clear and readable documentation.
+
+| Skill | Status |
+| --- | --- |
+| Headings | Complete |
+| Lists | Complete |
 <!-- QUIZ-END -->
