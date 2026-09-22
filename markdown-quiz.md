@@ -16,10 +16,9 @@ Complete every task in the answer area below. Do not delete the `QUIZ-START` or 
 10. Create a table with at least two columns, a header row, and two data rows.
 
 ---
-
 <!-- QUIZ-START -->
-
 # My Markdown Skills
+
 This sentence contains some **bold text** and some *italic text*.
 
 - First item
@@ -37,6 +36,11 @@ This sentence contains some **bold text** and some *italic text*.
 ```bash
 git add .
 git commit -m "markdown quiz"
+☑ Completed task
+□ Uncompleted task
+This is a complete sentence inside a blockquote.
 
-
+Header 1	Header 2
+Data 1	Data 2
+Data 3	Data 4
 <!-- QUIZ-END -->
