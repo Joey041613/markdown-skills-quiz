@@ -16,9 +16,8 @@ Complete every task in the answer area below. Do not delete the `QUIZ-START` or 
 10. Create a table with at least two columns, a header row, and two data rows.
 
 ---
-
-
 <!-- QUIZ-START -->
+# My Markdown Skills
 
 This sentence contains some **bold text** and some *italic text*.
 
